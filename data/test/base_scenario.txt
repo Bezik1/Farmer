@@ -1,0 +1,20 @@
+ARENA
+Arena 10 10
+......LLLL
+..X.LL.X..
+..X....XXX
+..L.LLLL..
+..L.XXXX..
+....X..X..
+....XXXX..
+X.........
+.......X..
+XXLLL..XXX
+PREDATORS
+WolfSpider 2 3
+WolfSpider 7 8
+PREY
+MonarchCaterpillar 2 2
+MonarchCaterpillar 5 5
+MonarchCaterpillar 8 2
+END
